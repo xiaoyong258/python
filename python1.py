@@ -1,2 +1,1 @@
-python.1
-python2
+print("hello,world!")
